@@ -1,4 +1,4 @@
 _spf.google.com
- spf.protection.outlook.com
- _spf.mail.yahoo.com
- spf.zoho.com
+spf.protection.outlook.com
+_spf.mail.yahoo.com
+spf.zoho.com
